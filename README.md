@@ -59,21 +59,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+
   <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ChrisWrenDev&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=252D32&sideLabels=252D32&ring=E7415A&fire=E7415A"/>
   </a>
-</p>
 
-<p align="center">
+<a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
+<img src="https://activity-graph.herokuapp.com/graph?username=ChrisWrenDev&bg_color=fff&color=252d32&line=373c43&point=e7415a&hide_border=true" />
+</a>
+
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWrenDev&hide=java,html,tex&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" alt="Chris Wren's GitHub Stats" />
-</a>
-
-<a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
-<img src="https://activity-graph.herokuapp.com/graph?username=ChrisWrenDev&bg_color=fff&color=252d32&line=373c43&point=e7415a&hide_border=true" />
 </a>
 
 </p>
