@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ChrisWrenDev/ChrisWrenDev/master/profile-header.jpg "Header")](https://github.com/ChrisWrenDev/ChrisWrenDev)
+[![Header](https://raw.githubusercontent.com/ChrisWrenDev/ChrisWrenDev/blob/main/images/profile-header.jpg "Header")](https://github.com/ChrisWrenDev/ChrisWrenDev)
 
 ## 📫 Reach me on
 
