@@ -65,9 +65,9 @@
 
 ## 📚 Tutorial Projects
 
-<table border="1px solid #fff">
+<table borderColor="ffffff">
 <tr>
-<td>
+<td borderColor="ffffff">
 <a href="https://github.com/ChrisWrenDev/Mapty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
