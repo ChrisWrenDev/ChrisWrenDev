@@ -59,10 +59,10 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWrenDev&hide=java,html,tex&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWrenDev&hide=java,html,tex&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" alt="Chris Wren's GitHub Stats" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" alt="Chris Wren's GitHub Stats" />
 </a>
 
 ## 📚 Tutorial Projects
