@@ -77,7 +77,7 @@
 
 <a href="https://www.linkedin.com/in/chris-wren/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="mailto:chriswrencoder@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:chriswrencoder@gmail.com?subject=Hello%20Chris,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
