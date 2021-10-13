@@ -7,30 +7,30 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## Projects
 
 <a href="https://github.com/ChrisWrenDev/Kings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Squad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Squad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Squad&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Prism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Routes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 ## Skills
 
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Web%20Dev-Redux-informational?style=flat&logo=Redux&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Web%20Dev-CSS-informational?style=flat&logo=css3&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Web%20Dev-HTML-informational?style=flat&logo=html5&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=e9425b)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=e9425b)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Web%20Dev-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Web%20Dev-CSS-informational?style=flat&logo=css3&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Web%20Dev-HTML-informational?style=flat&logo=html5&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=4e81c2)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=4e81c2)
 
 ## &#x1f4c8; GitHub Stats
 
