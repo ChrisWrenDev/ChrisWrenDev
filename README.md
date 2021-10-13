@@ -11,19 +11,19 @@
 ## 💻 Check Out My Projects
 
 <a href="https://github.com/ChrisWrenDev/Kings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Shift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Prism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Routes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 ## 🛠️ Tools of Trade
@@ -57,10 +57,10 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWrenDev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWrenDev&hide=java,html,tex&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" alt="Chris Wren's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" alt="Chris Wren's GitHub Stats" />
 </a>
 
 ## 📚 Tutorial Projects
@@ -73,8 +73,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
-<hr height="0px"/>
-
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
@@ -82,8 +80,6 @@
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-
-<hr height="0px"/>
 
 <a href="https://github.com/ChrisWrenDev/Trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
