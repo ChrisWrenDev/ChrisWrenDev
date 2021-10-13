@@ -65,7 +65,7 @@
 
 ## 📚 Tutorial Projects
 
-<table>
+<table bordercolor="#fff">
 <tr>
 <td>
 <a href="https://github.com/ChrisWrenDev/Mapty">
