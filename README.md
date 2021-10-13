@@ -6,8 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
-<a href="https://github.com/ChrisWrenDev/Squad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Squad&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+<a href="https://github.com/ChrisWrenDev/Shift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Prism">
