@@ -69,16 +69,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
+<a href="https://github.com/ChrisWrenDev/Nexter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
+</a>
+
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
-</a>
-
-<a href="https://github.com/ChrisWrenDev/Nexter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Trillo">
