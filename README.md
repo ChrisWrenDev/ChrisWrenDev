@@ -1,17 +1,25 @@
 [![Header](https://raw.githubusercontent.com/ChrisWrenDev/ChrisWrenDev/master/readme_header.png "Header")](https://github.com/ChrisWrenDev/ChrisWrenDev)
 
-## &#x270d; Blog & Writing
+## Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## Projects
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ChrisWrenDev/Kings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ChrisWrenDev/Squad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Squad&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ChrisWrenDev/Prism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ChrisWrenDev/Routes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## Skills
