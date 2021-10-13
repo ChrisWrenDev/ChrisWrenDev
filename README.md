@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=ffffff&text_color=c9cacc&icon_color=e9425b&bg_color=262e33" />
 </a>
 
-## 🔭 Tools of Trade
+## 🛠️ Tools of Trade
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=white"/>
