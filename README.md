@@ -65,44 +65,44 @@
 
 ## 📚 Tutorial Projects
 
-<table border="none">
-<tr>
-<td border="none">
+<div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Mapty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-<td>
+</div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Nexter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-</tr>
-<tr>
-<td>
+</div>
+</div>
+
+<div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-<td>
+</div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-</tr>
-<tr>
-<td>
+</div>
+</div>
+
+<div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-<td>
+</div>
+<div>
 <a href="https://github.com/ChrisWrenDev/Natours">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Natours&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
