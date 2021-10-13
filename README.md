@@ -71,6 +71,11 @@
 <a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisWrenDev&show_icons=true&line_height=27&count_private=true&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" alt="Chris Wren's GitHub Stats" />
 </a>
+
+<a href="https://github.com/ChrisWrenDev/ChrisWrenDev">
+<img src="https://activity-graph.herokuapp.com/graph?username=ChrisWrenDev&bg_color=fff&color=252d32&line=373c43&point=e7415a&hide_border=true" />
+</a>
+
 </p>
 
 ## 📚 Tutorial Projects
