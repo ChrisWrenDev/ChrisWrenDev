@@ -10,21 +10,23 @@
 
 ## 💻 Check Out My Projects
 
+<p align="left">
 <a href="https://github.com/ChrisWrenDev/Kings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Shift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Prism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Routes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
+</p>
 
 ## 🛠️ Tools of Trade
 
@@ -67,27 +69,27 @@
 
 <p align="left">
 <a href="https://github.com/ChrisWrenDev/Mapty">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Nexter">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Trillo">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Natours">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Natours&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Natours&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 </p>
 
