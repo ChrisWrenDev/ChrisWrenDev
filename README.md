@@ -73,6 +73,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
+<hr border="1px solid #fff"/>
+
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
@@ -80,6 +82,8 @@
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
+
+<hr border="1px solid #fff"/>
 
 <a href="https://github.com/ChrisWrenDev/Trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
