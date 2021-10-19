@@ -15,7 +15,7 @@
   <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
-<a href="https://github.com/ChrisWrenDev/Shift">
+<a href="https://github.com/ChrisWrenDev/Chatter">
   <img width="423" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
