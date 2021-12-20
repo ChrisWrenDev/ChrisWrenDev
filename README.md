@@ -12,20 +12,23 @@
 
 <p align="left">
 <a href="https://github.com/ChrisWrenDev/Kings">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Kings&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Chatter">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Shift&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Chatter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+</a>
+
+<a href="https://github.com/ChrisWrenDev/Aircraft-Scheduler">
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Aircraft-Scheduler&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Prism">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Prism&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
-<a href="https://github.com/ChrisWrenDev/Routes">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Routes&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
-</a>
 </p>
 
 ## 🛠️ Tools of Trade
@@ -40,8 +43,8 @@
 <img src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -53,7 +56,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 </p>
 
 ## 📈 GitHub Stats
@@ -81,27 +83,27 @@
 
 <p align="left">
 <a href="https://github.com/ChrisWrenDev/Mapty">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Mapty&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Nexter">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Nexter&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Bankist-Website">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Website&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Bankist-Calculator">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Bankist-Calculator&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Trillo">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Trillo&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 
 <a href="https://github.com/ChrisWrenDev/Natours">
-  <img width="422" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Natours&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
+  <img width="421" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisWrenDev&repo=Natours&title_color=252d32&text_color=373c43&icon_color=e9425b&bg_color=fff" />
 </a>
 </p>
 
