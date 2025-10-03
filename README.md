@@ -1,11 +1,22 @@
 ## ⚡ About Me
 
-I'm currently on a gap year — not the backpacking kind, but the "rebuild-my-brain" kind. After a few solid years as a Full Stack Engineer at BT, working on the ee.co.uk website (yeah, that one), I've hit pause to dive deep into something that’s been calling my name: distributed systems and Rust.
+I’m a **Frontend Engineer** specialising in **React, Next.js, and TypeScript**, helping ecommerce and SaaS companies build **fast, scalable, conversion-optimised applications**.
 
-Think less CSS bugs and more consensus algorithms and memory safety.
+Over the past 8+ years, I’ve worked on large-scale platforms (including **EE.co.uk** and **CEF.co.uk**) where I delivered high-performance frontends, optimised Core Web Vitals, and built reusable component libraries.
 
-- 🧠 **Current Focus:** Learning Rust + Distributed Systems from the ground up
-- 🔧 **Past Life:** Full Stack Engineer at BT, making sure your EE checkout didn't crash mid-iPhone purchase
-- 💥 **What I'm Breaking Now:** Paxos, Raft, async runtimes, and my comfort zone
-- 🦀 **Why Rust?** Because segfaults and race conditions should be a thing of the past
-- ☕ **Still Powered By:** Copious amounts of coffee and "wait... how does this even work?"
+Alongside my frontend work, I’m actively learning systems programming in **Rust** and contributing to **distributed database** projects.
+
+### 🧠 Current Focus  
+- Frontend → React • Next.js • TypeScript • Serverless • Performance optimisation  
+- Systems exploration → Rust • Distributed Systems • Streaming Databases  
+
+### 🔧 Featured Work
+- [Project Management](https://github.com/ChrisWrenDev/project-management)
+- [Learning Management](https://github.com/ChrisWrenDev/learning-management)
+
+### Open Source Contributions
+- [RisingWave](https://github.com/risingwavelabs/risingwave/pulls?q=is%3Apr+author%3Achriswrendev)
+- [Pulsar-rs](https://github.com/streamnative/pulsar-rs/pulls?q=is%3Apr+author%3Achriswrendev)
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/chris-wren/)
